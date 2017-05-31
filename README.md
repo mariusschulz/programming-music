@@ -24,6 +24,7 @@ A collective list of good music to listen to while programming.
 | TRON: Legacy | Daft Punk | Soundtrack | [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Spotify](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | Wired In | Various | Playlist | [Spotify](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
+| Minimal Techno | Various | Playlist | [Spotify](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 
 ### Focus
 
