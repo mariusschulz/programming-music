@@ -2,7 +2,7 @@
 
 A collective list of good music to listen to while programming.
 
-Do you know of any good albums or playlists? [Please contribute!](https://github.com/mariusschulz/programming-music/blob/master/CONTRIBUTING.md)
+Do you know of any good albums, songs, playlists, or soundtracks ? [Please contribute!](https://github.com/mariusschulz/programming-music/blob/master/CONTRIBUTING.md)
 
 ## Index
 
