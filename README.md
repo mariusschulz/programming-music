@@ -2,6 +2,8 @@
 
 A collective list of good music to listen to while programming.
 
+Do you know of any good albums or playlists? [Please contribute!](https://github.com/mariusschulz/programming-music/blob/master/CONTRIBUTING.md)
+
 ## Index
 
 - [Chillout](#chillout)
