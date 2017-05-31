@@ -1,6 +1,6 @@
 # Programming Music
 
-A collective list of good music to listen to while programming.
+A collective list of music to listen to while programming.
 
 Do you know of any good albums, songs, playlists, or soundtracks ? [Please contribute!](https://github.com/mariusschulz/programming-music/blob/master/CONTRIBUTING.md)
 
