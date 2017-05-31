@@ -22,6 +22,7 @@ Do you know of any good albums or playlists? [Please contribute!](https://github
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Discovery | Daft Punk | Album | [Spotify](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
+| Minimal Techno | Various | Playlist | [Spotify](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Random Access Memories | Daft Punk | Album | [Spotify](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Spotify](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
