@@ -21,6 +21,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Name | Artist | Type | Spotify |
 |---|---|---|---|
 | Discovery | Daft Punk | Album | [Link](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
+| Emergence | Max Cooper | Algum | [Link](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) |
 | Minimal Techno | Various | Playlist | [Link](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Random Access Memories | Daft Punk | Album | [Link](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Link](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
