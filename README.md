@@ -32,7 +32,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Name | Artist | Type | Spotify |
 |---|---|---|---|
 | Audiomachine | Audiomachine | Playlist | [Link](https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa) |
-| Intersteller | Hans Zimmer | Album | [Link](https://open.spotify.com/album/5OVGwMCexoHavOar6v4al5)
+| Interstellar | Hans Zimmer | Soundtrack | [Link](https://open.spotify.com/album/5OVGwMCexoHavOar6v4al5)
 | Productive Morning | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6T5dWVv97mp) |
 | Time | Hans Zimmer | Soundtrack | [Link](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) |
 
