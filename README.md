@@ -7,6 +7,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Chillout](#chillout)
 - [Electronic](#electronic)
 - [Focus](#focus)
+- [Jazz](#jazz)
 - [Orchestral](#orchestral)
 - [Space/Ambient](#spaceambient)
 
@@ -40,6 +41,16 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Interstellar | Hans Zimmer | Soundtrack | [Link](https://open.spotify.com/album/5OVGwMCexoHavOar6v4al5)
 | Productive Morning | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6T5dWVv97mp) |
 | Time | Hans Zimmer | Soundtrack | [Link](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) |
+
+### Jazz
+| Name | Artist | Type | Spotify |
+|---|---|---|---|
+| Coffee Table Jazz | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVqfgj8NZEp1) |
+| Clarinet Jazz | Various | Playlist | [Link](https://open.spotify.com/user/121195779/playlist/7EXxC5Z6iHbZzqiIw4uiOG) |
+| Jazz Classics | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXbITWG1ZJKYt) |
+| Jazz for Sleep | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXa1rZf8gLhyz) |
+| Jazzy Romance | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWTbzY5gOVvKd) |
+| Late Night Jazz | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4wta20PHgwo) |
 
 ### Orchestral
 
