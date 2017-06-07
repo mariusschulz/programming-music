@@ -8,6 +8,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Electronic](#electronic)
 - [Focus](#focus)
 - [Orchestral](#orchestral)
+- [Space/Ambient](#space-ambient)
 
 ### Chillout
 
@@ -15,6 +16,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 |---|---|---|---|
 | Circular Symmetry | ATB | Song | [Link](https://open.spotify.com/track/7CR0lIrkxYmHThUbqluw9J) |
 | Kontor Sunset Chill | Various | Playlist | [Link](https://open.spotify.com/user/1124518175/playlist/3D3jROkbtVUzRdWwH7Khnw) |
+| Radio Retaliation | Thievery Corporation | Album | [Link](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) |
+| The Cosmic Game | Thievery Corporation | Album | [Link](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) |
 
 ### Electronic
 
@@ -24,6 +27,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Emergence | Max Cooper | Album | [Link](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) |
 | Minimal Techno | Various | Playlist | [Link](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Random Access Memories | Daft Punk | Album | [Link](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| Ratatat mix | Ratatat | Playlist | [Link](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Link](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Link](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | Wired In | Various | Playlist | [Link](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
@@ -42,3 +46,10 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Name | Artist | Type | Spotify |
 |---|---|---|---|
 | Ambience while coding | Various | Playlist | [Link](https://open.spotify.com/user/resalire/playlist/3Z8uzEtTyX2qmpXX4ZXV7p) |
+
+### Space/Ambient
+
+| Name | Artist | Type | Spotify |
+|---|---|---|---|
+| Light Years | Stellardrone | Album | [Link](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
+| X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
