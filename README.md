@@ -8,7 +8,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Electronic](#electronic)
 - [Focus](#focus)
 - [Orchestral](#orchestral)
-- [Space/Ambient](#space-ambient)
+- [Space/Ambient](#spaceambient)
 
 ### Chillout
 
