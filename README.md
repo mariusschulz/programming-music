@@ -29,6 +29,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Minimal Techno | Various | Playlist | [Link](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Random Access Memories | Daft Punk | Album | [Link](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | Ratatat mix | Ratatat | Playlist | [Link](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL) |
+| Solar Eclipses | Hollywood Principle, Dr. Awkward | Album | [Link](https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Link](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Link](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Link](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
