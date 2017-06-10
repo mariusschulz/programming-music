@@ -29,8 +29,9 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Minimal Techno | Various | Playlist | [Link](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Random Access Memories | Daft Punk | Album | [Link](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | Ratatat mix | Ratatat | Playlist | [Link](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL) |
-| TRON: Legacy | Daft Punk | Soundtrack | [Link](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
+| Solar Eclipses | Hollywood Principle, Dr. Awkward | Album | [Link](https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Link](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
+| TRON: Legacy | Daft Punk | Soundtrack | [Link](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Link](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
 
 ### Focus
@@ -45,8 +46,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 ### Jazz
 | Name | Artist | Type | Spotify |
 |---|---|---|---|
-| Coffee Table Jazz | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVqfgj8NZEp1) |
 | Clarinet Jazz | Various | Playlist | [Link](https://open.spotify.com/user/121195779/playlist/7EXxC5Z6iHbZzqiIw4uiOG) |
+| Coffee Table Jazz | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVqfgj8NZEp1) |
 | Jazz Classics | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXbITWG1ZJKYt) |
 | Jazz for Sleep | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXa1rZf8gLhyz) |
 | Jazzy Romance | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWTbzY5gOVvKd) |
