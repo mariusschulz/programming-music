@@ -10,6 +10,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Jazz](#jazz)
 - [Orchestral](#orchestral)
 - [Space/Ambient](#spaceambient)
+- [Post-Rock](#post-rock)
 
 ### Chillout
 
@@ -33,6 +34,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Link](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Link](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Link](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
+| Full Circle | HÆLOS | Album | [Link](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) |
 
 ### Focus
 
@@ -42,6 +44,10 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Interstellar | Hans Zimmer | Soundtrack | [Link](https://open.spotify.com/album/5OVGwMCexoHavOar6v4al5)
 | Productive Morning | Various | Playlist | [Link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6T5dWVv97mp) |
 | Time | Hans Zimmer | Soundtrack | [Link](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) |
+| A Moment Of Stillness  | God Is An Astronaut | Album | [Link](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) |
+| Helios / Erebus  | God Is An Astronaut | Album | [Link](https://open.spotify.com/album/6NEwj8hlw0b7U3jd6vHRg3) |
+| Atomic  | Mogwai | Album | [Link](https://open.spotify.com/album/56tg3CAAd9JZhzQZsYoC2c) |
+| Les Revenants Soundtrack  | Mogwai | Soundtrack | [Link](https://open.spotify.com/album/7znNGZ8iNfLJ41IxEWYJHp) |
 
 ### Jazz
 
@@ -59,6 +65,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Name | Artist | Type | Spotify |
 |---|---|---|---|
 | Ambience while coding | Various | Playlist | [Link](https://open.spotify.com/user/resalire/playlist/3Z8uzEtTyX2qmpXX4ZXV7p) |
+| Unearthed | E.S. Posthumus | Album | [Link](https://open.spotify.com/album/5dO8FBozMXBNXRwuGbYt12) |
 
 ### Space/Ambient
 
@@ -67,3 +74,18 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Light Years | Stellardrone | Album | [Link](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
 | Movements | Solar Fields | Album | [Link](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
+| No Man's Sky OST | 65daysofstatic | Soundtrack | [Link](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
+| The Apollo Missions | NASA | Playlist | [Link](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
+
+### Post-Rock
+
+| Name | Artist | Type | Spotify |
+|---|---|---|---|
+| Hand Cannot Erase | Steven Wilson | Album | [Link](https://open.spotify.com/album/30ibtgslgzmMRbQnWl9LTy) |
+| The Raven That Refused to Sing | Steven Wilson | Album | [Link](https://open.spotify.com/album/62sXcCLmRTvVrmOOsuHGiJ) |
+| To The Bone | Steven Wilson | Album | [Link](https://open.spotify.com/album/37lL4QxxvHJ3SxFH2KtkDD) |
+| Those Who Tell the Truth | Explosions In The Sky | Album | [Link](https://open.spotify.com/album/0HxOFNk6NIHydHAer8y01M) |
+| All of a Sudden I Miss Everyone | Explosions In The Sky | Album | [Link](https://open.spotify.com/album/1hXFXoYkWp7Jbzc2nwhvub) |
+| Hvarf - Heim | Sigur Rós | Album | [Link](https://open.spotify.com/album/28WGXFGJNfTHxUoIsnIYVn) |
+| In Absentia | Porcupine Tree | Album | [Link](https://open.spotify.com/album/2dAYkfqPYzOTDNxDDVP2vi) |
+| The Incident | Porcupine Tree | Album | [Link](https://open.spotify.com/album/4yUOsJbwypC2JrpXZ3eO7p) |
