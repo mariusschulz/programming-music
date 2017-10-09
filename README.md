@@ -9,8 +9,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Focus](#focus)
 - [Jazz](#jazz)
 - [Orchestral](#orchestral)
-- [Space/Ambient](#spaceambient)
 - [Post-Rock](#post-rock)
+- [Space/Ambient](#spaceambient)
 
 ### Chillout
 
@@ -73,19 +73,19 @@ A collective list of music to listen to while programming. [Please contribute!](
 |---|---|---|---|
 | Light Years | Stellardrone | Album | [Link](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
 | Movements | Solar Fields | Album | [Link](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
-| X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
 | No Man's Sky OST | 65daysofstatic | Soundtrack | [Link](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
 | The Apollo Missions | NASA | Playlist | [Link](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
+| X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
 
 ### Post-Rock
 
 | Name | Artist | Type | Spotify |
 |---|---|---|---|
-| Hand Cannot Erase | Steven Wilson | Album | [Link](https://open.spotify.com/album/30ibtgslgzmMRbQnWl9LTy) |
-| The Raven That Refused to Sing | Steven Wilson | Album | [Link](https://open.spotify.com/album/62sXcCLmRTvVrmOOsuHGiJ) |
-| To The Bone | Steven Wilson | Album | [Link](https://open.spotify.com/album/37lL4QxxvHJ3SxFH2KtkDD) |
-| Those Who Tell the Truth | Explosions In The Sky | Album | [Link](https://open.spotify.com/album/0HxOFNk6NIHydHAer8y01M) |
 | All of a Sudden I Miss Everyone | Explosions In The Sky | Album | [Link](https://open.spotify.com/album/1hXFXoYkWp7Jbzc2nwhvub) |
+| Hand Cannot Erase | Steven Wilson | Album | [Link](https://open.spotify.com/album/30ibtgslgzmMRbQnWl9LTy) |
 | Hvarf - Heim | Sigur Rós | Album | [Link](https://open.spotify.com/album/28WGXFGJNfTHxUoIsnIYVn) |
 | In Absentia | Porcupine Tree | Album | [Link](https://open.spotify.com/album/2dAYkfqPYzOTDNxDDVP2vi) |
 | The Incident | Porcupine Tree | Album | [Link](https://open.spotify.com/album/4yUOsJbwypC2JrpXZ3eO7p) |
+| The Raven That Refused to Sing | Steven Wilson | Album | [Link](https://open.spotify.com/album/62sXcCLmRTvVrmOOsuHGiJ) |
+| Those Who Tell the Truth | Explosions In The Sky | Album | [Link](https://open.spotify.com/album/0HxOFNk6NIHydHAer8y01M) |
+| To The Bone | Steven Wilson | Album | [Link](https://open.spotify.com/album/37lL4QxxvHJ3SxFH2KtkDD) |
