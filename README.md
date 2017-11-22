@@ -71,9 +71,11 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 | Name | Artist | Type | Spotify |
 |---|---|---|---|
+| Half Age EP | Weval | Album | [Link](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
 | Light Years | Stellardrone | Album | [Link](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
 | Movements | Solar Fields | Album | [Link](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
 | No Man's Sky OST | 65daysofstatic | Soundtrack | [Link](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
+| Spiral Revelation | Steve Roach | Album | [Link](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6) |
 | The Apollo Missions | NASA | Playlist | [Link](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
 
