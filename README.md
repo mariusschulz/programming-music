@@ -76,6 +76,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Movements | Solar Fields | Album | [Link](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
 | No Man's Sky OST | 65daysofstatic | Soundtrack | [Link](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
 | Spiral Revelation | Steve Roach | Album | [Link](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6) |
+| Synthwave from Space | Various | Playlist | [Link](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
 | The Apollo Missions | NASA | Playlist | [Link](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
 
