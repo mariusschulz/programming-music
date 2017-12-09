@@ -67,19 +67,6 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Ambience while coding | Various | Playlist | [Link](https://open.spotify.com/user/resalire/playlist/3Z8uzEtTyX2qmpXX4ZXV7p) |
 | Unearthed | E.S. Posthumus | Album | [Link](https://open.spotify.com/album/5dO8FBozMXBNXRwuGbYt12) |
 
-### Space/Ambient
-
-| Name | Artist | Type | Spotify |
-|---|---|---|---|
-| Half Age EP | Weval | Album | [Link](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
-| Light Years | Stellardrone | Album | [Link](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
-| Movements | Solar Fields | Album | [Link](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
-| No Man's Sky OST | 65daysofstatic | Soundtrack | [Link](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
-| Spiral Revelation | Steve Roach | Album | [Link](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6) |
-| Synthwave from Space | Various | Playlist | [Link](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
-| The Apollo Missions | NASA | Playlist | [Link](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
-| X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
-
 ### Post-Rock
 
 | Name | Artist | Type | Spotify |
@@ -92,3 +79,16 @@ A collective list of music to listen to while programming. [Please contribute!](
 | The Raven That Refused to Sing | Steven Wilson | Album | [Link](https://open.spotify.com/album/62sXcCLmRTvVrmOOsuHGiJ) |
 | Those Who Tell the Truth | Explosions In The Sky | Album | [Link](https://open.spotify.com/album/0HxOFNk6NIHydHAer8y01M) |
 | To The Bone | Steven Wilson | Album | [Link](https://open.spotify.com/album/37lL4QxxvHJ3SxFH2KtkDD) |
+
+### Space/Ambient
+
+| Name | Artist | Type | Spotify |
+|---|---|---|---|
+| Half Age EP | Weval | Album | [Link](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
+| Light Years | Stellardrone | Album | [Link](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
+| Movements | Solar Fields | Album | [Link](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
+| No Man's Sky OST | 65daysofstatic | Soundtrack | [Link](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
+| Spiral Revelation | Steve Roach | Album | [Link](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6) |
+| Synthwave from Space | Various | Playlist | [Link](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
+| The Apollo Missions | NASA | Playlist | [Link](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
+| X3 OST | Alexei Zakharov | Soundtrack | [Link](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
