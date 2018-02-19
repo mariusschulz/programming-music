@@ -7,6 +7,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Chillout](#chillout)
 - [Electronic](#electronic)
 - [Focus](#focus)
+- [House](#house)
 - [Jazz](#jazz)
 - [Orchestral](#orchestral)
 - [Post-Rock](#post-rock)
