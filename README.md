@@ -53,6 +53,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 | Name | Artist | Type | Link |
 |---|---|---|---|
+| Melodic Progressive House Mix | Shingo Nakamura | Mix | [YouTube](https://www.youtube.com/watch?v=WYp9Eo9T3BA) |
 | Progressive House Mix 2018 | Various | Mix | [YouTube](https://www.youtube.com/watch?v=62jdo2ogkiU) |
 
 ### Jazz
