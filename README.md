@@ -49,6 +49,12 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Atomic  | Mogwai | Album | [Spotify](https://open.spotify.com/album/56tg3CAAd9JZhzQZsYoC2c) |
 | Les Revenants Soundtrack  | Mogwai | Soundtrack | [Spotify](https://open.spotify.com/album/7znNGZ8iNfLJ41IxEWYJHp) |
 
+### House
+
+| Name | Artist | Type | Link |
+|---|---|---|---|
+| Progressive House Mix 2018 | Various | Mix | [YouTube](https://www.youtube.com/watch?v=62jdo2ogkiU) |
+
 ### Jazz
 
 | Name | Artist | Type | Spotify |
