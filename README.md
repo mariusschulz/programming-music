@@ -58,7 +58,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 ### Jazz
 
-| Name | Artist | Type | Spotify |
+| Name | Artist | Type | Link |
 |---|---|---|---|
 | Clarinet Jazz | Various | Playlist | [Spotify](https://open.spotify.com/user/121195779/playlist/7EXxC5Z6iHbZzqiIw4uiOG) |
 | Coffee Table Jazz | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVqfgj8NZEp1) |
