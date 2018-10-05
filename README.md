@@ -7,6 +7,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Chillout](#chillout)
 - [Electronic](#electronic)
 - [Focus](#focus)
+- [Hip Hop](#hip-hop)
 - [House](#house)
 - [Jazz](#jazz)
 - [Orchestral](#orchestral)
@@ -49,6 +50,12 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Helios / Erebus  | God Is An Astronaut | Album | [Spotify](https://open.spotify.com/album/6NEwj8hlw0b7U3jd6vHRg3) |
 | Atomic  | Mogwai | Album | [Spotify](https://open.spotify.com/album/56tg3CAAd9JZhzQZsYoC2c) |
 | Les Revenants Soundtrack  | Mogwai | Soundtrack | [Spotify](https://open.spotify.com/album/7znNGZ8iNfLJ41IxEWYJHp) |
+
+### Hip Hop
+
+| Name | Artist | Type | Link |
+|---|---|---|---|
+| Lofi Hip Hop Beats | Various | Playlist | [Spotify](https://open.spotify.com/user/chillhopmusic/playlist/74sUjcvpGfdOvCHvgzNEDO) |
 
 ### House
 
