@@ -81,6 +81,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Ambience while coding | Various | Playlist | [Spotify](https://open.spotify.com/user/resalire/playlist/3Z8uzEtTyX2qmpXX4ZXV7p) |
+| Oracle | Sorastro | Album | [Spotify](https://open.spotify.com/album/1sCRvOl9mclwED42jGULVn) |
+| Starborn | Sorastro | Album | [Spotify](https://open.spotify.com/album/6RgumQtb6jbqvDfd6XRtUC) |
 | Unearthed | E.S. Posthumus | Album | [Spotify](https://open.spotify.com/album/5dO8FBozMXBNXRwuGbYt12) |
 
 ### Post-Rock
