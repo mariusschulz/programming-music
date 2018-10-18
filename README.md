@@ -37,6 +37,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | TRON: Legacy | Daft Punk | Soundtrack | [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Spotify](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
 | Full Circle | HÆLOS | Album | [Spotify](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) |
+| Techno Bunker | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675?si=0LMnWd7zTaCSoHprli0Tfw) |
 
 ### Focus
 
