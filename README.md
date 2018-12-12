@@ -39,6 +39,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Full Circle | HÆLOS | Album | [Spotify](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) |
 | Techno Bunker | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675?si=0LMnWd7zTaCSoHprli0Tfw) |
 | Music Has the Right to Children | Boards Of Canada | Album | [Spotify](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) |
+| Half Age EP | Weval | Album | [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
 
 ### Focus
 
@@ -103,7 +104,6 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 | Name | Artist | Type | Link |
 |---|---|---|---|
-| Half Age EP | Weval | Album | [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
 | Light Years | Stellardrone | Album | [Spotify](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
 | Movements | Solar Fields | Album | [Spotify](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
 | No Man's Sky OST | 65daysofstatic | Soundtrack | [Spotify](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
@@ -111,3 +111,4 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Synthwave from Space | Various | Playlist | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
 | The Apollo Missions | NASA | Playlist | [Spotify](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
+| Immunity | Jon Hopkins | Album | [Spotify](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) |
