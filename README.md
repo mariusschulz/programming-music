@@ -30,6 +30,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Discovery | Daft Punk | Album | [Spotify](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
 | Emergence | Max Cooper | Album | [Spotify](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) |
 | Minimal Techno | Various | Playlist | [Spotify](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
+| Mirror's Edge (Game OST) | Solar Fields | Album | [Spotify](https://open.spotify.com/album/3x8kUWCtDfOEnOtyaRdkdp) |
 | Random Access Memories | Daft Punk | Album | [Spotify](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | Ratatat mix | Ratatat | Playlist | [Spotify](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL) |
 | Solar Eclipses | Hollywood Principle, Dr. Awkward | Album | [Spotify](https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8) |
