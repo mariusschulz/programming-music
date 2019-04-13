@@ -29,31 +29,31 @@ A collective list of music to listen to while programming. [Please contribute!](
 |---|---|---|---|
 | Discovery | Daft Punk | Album | [Spotify](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
 | Emergence | Max Cooper | Album | [Spotify](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) |
+| Full Circle | HÆLOS | Album | [Spotify](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) |
+| Half Age EP | Weval | Album | [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
 | Minimal Techno | Various | Playlist | [Spotify](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Mirror's Edge (Game OST) | Solar Fields | Album | [Spotify](https://open.spotify.com/album/3x8kUWCtDfOEnOtyaRdkdp) |
+| Music Has the Right to Children | Boards Of Canada | Album | [Spotify](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) |
 | Random Access Memories | Daft Punk | Album | [Spotify](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | Ratatat mix | Ratatat | Playlist | [Spotify](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL) |
 | Solar Eclipses | Hollywood Principle, Dr. Awkward | Album | [Spotify](https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8) |
+| Techno Bunker | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675?si=0LMnWd7zTaCSoHprli0Tfw) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Spotify](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Spotify](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
-| Full Circle | HÆLOS | Album | [Spotify](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) |
-| Techno Bunker | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675?si=0LMnWd7zTaCSoHprli0Tfw) |
-| Music Has the Right to Children | Boards Of Canada | Album | [Spotify](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) |
-| Half Age EP | Weval | Album | [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
 
 ### Focus
 
 | Name | Artist | Type | Link |
 |---|---|---|---|
+| A Moment Of Stillness  | God Is An Astronaut | Album | [Spotify](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) |
+| Atomic  | Mogwai | Album | [Spotify](https://open.spotify.com/album/56tg3CAAd9JZhzQZsYoC2c) |
 | Audiomachine | Audiomachine | Playlist | [Spotify](https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa) |
+| Helios / Erebus  | God Is An Astronaut | Album | [Spotify](https://open.spotify.com/album/6NEwj8hlw0b7U3jd6vHRg3) |
 | Interstellar | Hans Zimmer | Soundtrack | [Spotify](https://open.spotify.com/album/5OVGwMCexoHavOar6v4al5)
+| Les Revenants Soundtrack  | Mogwai | Soundtrack | [Spotify](https://open.spotify.com/album/7znNGZ8iNfLJ41IxEWYJHp) |
 | Productive Morning | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6T5dWVv97mp) |
 | Time | Hans Zimmer | Soundtrack | [Spotify](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) |
-| A Moment Of Stillness  | God Is An Astronaut | Album | [Spotify](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) |
-| Helios / Erebus  | God Is An Astronaut | Album | [Spotify](https://open.spotify.com/album/6NEwj8hlw0b7U3jd6vHRg3) |
-| Atomic  | Mogwai | Album | [Spotify](https://open.spotify.com/album/56tg3CAAd9JZhzQZsYoC2c) |
-| Les Revenants Soundtrack  | Mogwai | Soundtrack | [Spotify](https://open.spotify.com/album/7znNGZ8iNfLJ41IxEWYJHp) |
 
 ### Hip Hop
 
@@ -105,6 +105,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 | Name | Artist | Type | Link |
 |---|---|---|---|
+| Immunity | Jon Hopkins | Album | [Spotify](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) |
 | Light Years | Stellardrone | Album | [Spotify](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) |
 | Movements | Solar Fields | Album | [Spotify](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs) |
 | No Man's Sky OST | 65daysofstatic | Soundtrack | [Spotify](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40) |
@@ -112,4 +113,3 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Synthwave from Space | Various | Playlist | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
 | The Apollo Missions | NASA | Playlist | [Spotify](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
-| Immunity | Jon Hopkins | Album | [Spotify](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) |
