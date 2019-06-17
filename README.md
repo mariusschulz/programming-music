@@ -31,6 +31,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Emergence | Max Cooper | Album | [Spotify](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my) |
 | Full Circle | HÆLOS | Album | [Spotify](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) |
 | Half Age EP | Weval | Album | [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
+| Halt and Catch Fire (TV OST) | Paul Haslinger | Album | [Spotify](https://open.spotify.com/album/6SREPA19KJrxIfMhijErlF) |
+| Halt and Catch Fire Vol 2 (TV OST) | Paul Haslinger | Album | [Spotify](https://open.spotify.com/album/4fgDSpwYFqCBxt47QlDqC8) |
 | Minimal Techno | Various | Playlist | [Spotify](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Mirror's Edge (Game OST) | Solar Fields | Album | [Spotify](https://open.spotify.com/album/3x8kUWCtDfOEnOtyaRdkdp) |
 | Music Has the Right to Children | Boards Of Canada | Album | [Spotify](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) |
