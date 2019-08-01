@@ -5,6 +5,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 ## Index
 
 - [Chillout](#chillout)
+- [Drum & Bass](#Drum-and-bass)
 - [Electronic](#electronic)
 - [Focus](#focus)
 - [Hip Hop](#hip-hop)
@@ -22,6 +23,14 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Kontor Sunset Chill | Various | Playlist | [Spotify](https://open.spotify.com/user/1124518175/playlist/3D3jROkbtVUzRdWwH7Khnw) |
 | Radio Retaliation | Thievery Corporation | Album | [Spotify](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) |
 | The Cosmic Game | Thievery Corporation | Album | [Spotify](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) |
+
+### Drum & Bass
+
+| Name | Artist | Type | Link |
+|---|---|---|---|
+| Liquid Drum and Bass (A-K) | Various | Playlist | [Spotify](https://open.spotify.com/playlist/41Uf61JyNjhkETfVqI3Jjm?si=hVVznTMVRoeRt0nwxbdmcw) |
+| Liquid Drum and Bass (L-Z) | Various | Playlist | [Spotify](https://open.spotify.com/playlist/145PWExYF76GFJkkei8rj0?si=wmkYFKB0Qvy4Pg1Z_wmAkQ) |
+
 
 ### Electronic
 
@@ -44,6 +53,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Spotify](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Spotify](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
+| RetroWave / Outrun | Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM?si=A7TBqO7fR-izw003BXIAjA) |
+
 
 ### Focus
 
@@ -63,6 +74,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Lofi Hip Hop Beats | Various | Playlist | [Spotify](https://open.spotify.com/user/chillhopmusic/playlist/74sUjcvpGfdOvCHvgzNEDO) |
+| Lush lofi | Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH?si=0Wsf87WcQlqS9SJpz54CQQ) |
 
 ### House
 
