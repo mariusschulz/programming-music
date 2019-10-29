@@ -50,6 +50,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Ratatat mix | Ratatat | Playlist | [Spotify](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL) |
 | Solar Eclipses | Hollywood Principle, Dr. Awkward | Album | [Spotify](https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8) |
 | Techno Bunker | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675?si=0LMnWd7zTaCSoHprli0Tfw) |
+| The Aviating | Alec Toniq & Gabriel Vitel | Album | [Apple Music](https://music.apple.com/de/album/the-aviating/1051088498) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Spotify](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Spotify](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
@@ -66,8 +67,10 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Helios / Erebus  | God Is An Astronaut | Album | [Spotify](https://open.spotify.com/album/6NEwj8hlw0b7U3jd6vHRg3) |
 | Interstellar | Hans Zimmer | Soundtrack | [Spotify](https://open.spotify.com/album/5OVGwMCexoHavOar6v4al5)
 | Les Revenants Soundtrack  | Mogwai | Soundtrack | [Spotify](https://open.spotify.com/album/7znNGZ8iNfLJ41IxEWYJHp) |
+| Philharmonics | Agnes Obel | Album | [Apple Music](https://music.apple.com/de/album/philharmonics/872505332) |
 | Productive Morning | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6T5dWVv97mp) |
 | Time | Hans Zimmer | Soundtrack | [Spotify](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) |
+| Vapor | Yosi Horikawa | Album | [Spotify](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt?si=p3ATtHtVT1GgDVfQmCQhdg) |
 
 ### Hip Hop
 
