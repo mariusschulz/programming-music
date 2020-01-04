@@ -28,8 +28,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 | Name | Artist | Type | Link |
 |---|---|---|---|
-| Liquid Drum and Bass (A-K) | Various | Playlist | [Spotify](https://open.spotify.com/playlist/41Uf61JyNjhkETfVqI3Jjm?si=hVVznTMVRoeRt0nwxbdmcw) |
-| Liquid Drum and Bass (L-Z) | Various | Playlist | [Spotify](https://open.spotify.com/playlist/145PWExYF76GFJkkei8rj0?si=wmkYFKB0Qvy4Pg1Z_wmAkQ) |
+| Liquid Drum and Bass (A-K) | Various | Playlist | [Spotify](https://open.spotify.com/playlist/41Uf61JyNjhkETfVqI3Jjm) |
+| Liquid Drum and Bass (L-Z) | Various | Playlist | [Spotify](https://open.spotify.com/playlist/145PWExYF76GFJkkei8rj0) |
 
 
 ### Electronic
@@ -42,19 +42,19 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Half Age EP | Weval | Album | [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u) |
 | Halt and Catch Fire (TV OST) | Paul Haslinger | Album | [Spotify](https://open.spotify.com/album/6SREPA19KJrxIfMhijErlF) |
 | Halt and Catch Fire Vol 2 (TV OST) | Paul Haslinger | Album | [Spotify](https://open.spotify.com/album/4fgDSpwYFqCBxt47QlDqC8) |
-| Mantra | Jean du Voyage | Album | [Spotify](https://open.spotify.com/album/7K5tfkdeToVwZaEnEv2atb?si=gB9tvHCZRc-7M020rn4Wsw) |
+| Mantra | Jean du Voyage | Album | [Spotify](https://open.spotify.com/album/7K5tfkdeToVwZaEnEv2atb) |
 | Minimal Techno | Various | Playlist | [Spotify](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n) |
 | Mirror's Edge (Game OST) | Solar Fields | Album | [Spotify](https://open.spotify.com/album/3x8kUWCtDfOEnOtyaRdkdp) |
 | Music Has the Right to Children | Boards Of Canada | Album | [Spotify](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) |
 | Random Access Memories | Daft Punk | Album | [Spotify](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | Ratatat mix | Ratatat | Playlist | [Spotify](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL) |
 | Solar Eclipses | Hollywood Principle, Dr. Awkward | Album | [Spotify](https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8) |
-| Techno Bunker | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675?si=0LMnWd7zTaCSoHprli0Tfw) |
+| Techno Bunker | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675) |
 | The Aviating | Alec Toniq & Gabriel Vitel | Album | [Apple Music](https://music.apple.com/de/album/the-aviating/1051088498) |
 | The Social Network | Trent Reznor, Atticus Ross | Soundtrack | [Spotify](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) |
 | TRON: Legacy | Daft Punk | Soundtrack | [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) |
 | Wired In | Various | Playlist | [Spotify](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl) |
-| RetroWave / Outrun | Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM?si=A7TBqO7fR-izw003BXIAjA) |
+| RetroWave / Outrun | Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM) |
 
 
 ### Focus
@@ -70,14 +70,14 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Philharmonics | Agnes Obel | Album | [Apple Music](https://music.apple.com/de/album/philharmonics/872505332) |
 | Productive Morning | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6T5dWVv97mp) |
 | Time | Hans Zimmer | Soundtrack | [Spotify](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) |
-| Vapor | Yosi Horikawa | Album | [Spotify](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt?si=p3ATtHtVT1GgDVfQmCQhdg) |
+| Vapor | Yosi Horikawa | Album | [Spotify](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) |
 
 ### Hip Hop
 
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Lofi Hip Hop Beats | Various | Playlist | [Spotify](https://open.spotify.com/user/chillhopmusic/playlist/74sUjcvpGfdOvCHvgzNEDO) |
-| Lush lofi | Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH?si=0Wsf87WcQlqS9SJpz54CQQ) |
+| Lush lofi | Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH) |
 
 ### House
 
