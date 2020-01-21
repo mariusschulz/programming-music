@@ -14,6 +14,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 - [Orchestral](#orchestral)
 - [Post-Rock](#post-rock)
 - [Space/Ambient](#spaceambient)
+- [Pop/Soul](#popsoul)
 
 ### Chillout
 
@@ -131,3 +132,9 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Synthwave from Space | Various | Playlist | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
 | The Apollo Missions | NASA | Playlist | [Spotify](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
+
+### Pop/Soul
+
+| Name | Artist | Type | Link |
+|---|---|---|---|
+| Feng Suave | Feng Suave EP | Album | [Youtube](https://www.youtube.com/watch?v=O5XgrGiGZ3s) |
