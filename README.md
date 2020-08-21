@@ -20,7 +20,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Name | Artist | Type | Link |
 |---|---|---|---|
 | Circular Symmetry | ATB | Song | [Spotify](https://open.spotify.com/track/7CR0lIrkxYmHThUbqluw9J) |
-| Kontor Sunset Chill | Various | Playlist | [Spotify](https://open.spotify.com/user/1124518175/playlist/3D3jROkbtVUzRdWwH7Khnw) |
+| Kontor Sunset Chill | Various | Playlist | [Spotify](https://open.spotify.com/playlist/4qfIDDItu9xWo8LsrqOAca) |
 | Radio Retaliation | Thievery Corporation | Album | [Spotify](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) |
 | The Cosmic Game | Thievery Corporation | Album | [Spotify](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) |
 
