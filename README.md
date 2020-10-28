@@ -103,6 +103,8 @@ A collective list of music to listen to while programming. [Please contribute!](
 |---|---|---|---|
 | Ambience while coding | Various | Playlist | [Spotify](https://open.spotify.com/user/resalire/playlist/3Z8uzEtTyX2qmpXX4ZXV7p) |
 | Oracle | Sorastro | Album | [Spotify](https://open.spotify.com/album/1sCRvOl9mclwED42jGULVn) |
+| Project Reality Original Soundtrack v0.9 | Scott Tobin | Album | [Spotify](https://open.spotify.com/album/2qW0y29VGdFOAfGff92gbh) |
+| Project Reality Original Soundtrack v1.0 | Scott Tobin | Album | [Spotify](https://open.spotify.com/album/0Krzwyda9zwkfmdI8UcIx6) |
 | Starborn | Sorastro | Album | [Spotify](https://open.spotify.com/album/6RgumQtb6jbqvDfd6XRtUC) |
 | Unearthed | E.S. Posthumus | Album | [Spotify](https://open.spotify.com/album/5dO8FBozMXBNXRwuGbYt12) |
 
