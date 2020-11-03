@@ -97,6 +97,12 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Jazzy Romance | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWTbzY5gOVvKd) |
 | Late Night Jazz | Various | Playlist | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4wta20PHgwo) |
 
+### Metal
+
+| Name | Artist | Type | Link |
+|---|---|---|---|
+| Extreme Metal | Various | Playlist | [Apple Music](https://music.apple.com/ru/playlist/extreme-metal/pl.1baada6675ca477cbe9946b3d21c5757?l=en) |
+
 ### Orchestral
 
 | Name | Artist | Type | Link |
