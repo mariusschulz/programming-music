@@ -138,4 +138,5 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Spiral Revelation | Steve Roach | Album | [Spotify](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6) |
 | Synthwave from Space | Various | Playlist | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p) |
 | The Apollo Missions | NASA | Playlist | [Spotify](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D) |
+| Tycho Anthology | Tycho | Playlist | [Spotify](https://open.spotify.com/playlist/7m3EiJHdRAVPweCJLxDP3d) |
 | X3 OST | Alexei Zakharov | Soundtrack | [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX) |
