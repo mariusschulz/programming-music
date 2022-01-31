@@ -40,19 +40,22 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Emergence                          | Max Cooper                       | Album      | [Apple Music](https://music.apple.com/album/1149398778), [Spotify](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my)                 |
 | Full Circle                        | HÆLOS                            | Album      | [Apple Music](https://music.apple.com/album/1589172754), [Spotify](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ)                 |
 | Half Age EP                        | Weval                            | Album      | [Apple Music](https://music.apple.com/album/1522057259), [Spotify](https://open.spotify.com/album/1hDdP4atpaoKA5OE8ETG1u)                 |
-| Halt and Catch Fire (TV OST)       | Paul Haslinger                   | Album      | [Apple Music](https://music.apple.com/album/1141609067), [Spotify](https://open.spotify.com/album/6SREPA19KJrxIfMhijErlF)                 |
-| Halt and Catch Fire Vol 2 (TV OST) | Paul Haslinger                   | Album      | [Apple Music](https://music.apple.com/album/1446955010), [Spotify](https://open.spotify.com/album/4fgDSpwYFqCBxt47QlDqC8)                 |
+| Halt and Catch Fire (TV OST)       | Paul Haslinger                   | Soundtrack | [Apple Music](https://music.apple.com/album/1141609067), [Spotify](https://open.spotify.com/album/6SREPA19KJrxIfMhijErlF)                 |
+| Halt and Catch Fire Vol 2 (TV OST) | Paul Haslinger                   | Soundtrack | [Apple Music](https://music.apple.com/album/1446955010), [Spotify](https://open.spotify.com/album/4fgDSpwYFqCBxt47QlDqC8)                 |
 | Mantra                             | Jean du Voyage                   | Album      | [Apple Music](https://music.apple.com/album/1153711013), [Spotify](https://open.spotify.com/album/7K5tfkdeToVwZaEnEv2atb)                 |
 | Minimal Techno                     | Various                          | Playlist   | [Spotify](https://open.spotify.com/user/alekzanther/playlist/0B3WoheGNqol1B69LM9Y8n)                                                      |
-| Mirror's Edge (Game OST)           | Solar Fields                     | Album      | [Apple Music](https://music.apple.com/album/1530511640), [Spotify](https://open.spotify.com/album/3x8kUWCtDfOEnOtyaRdkdp)                 |
+| Mirror's Edge (Game OST)           | Solar Fields                     | Soundtrack | [Apple Music](https://music.apple.com/album/1530511640), [Spotify](https://open.spotify.com/album/3x8kUWCtDfOEnOtyaRdkdp)                 |
+| Mirror's Edge Catalyst (Game OST)  | Solar Fields                     | Soundtrack | [Apple Music](https://music.apple.com/album/1530511640), [Spotify](https://open.spotify.com/album/3x8kUWCtDfOEnOtyaRdkdp)                 |
 | Music Has the Right to Children    | Boards Of Canada                 | Album      | [Apple Music](https://music.apple.com/album/281116024), [Spotify](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a)                  |
 | Random Access Memories             | Daft Punk                        | Album      | [Apple Music](https://music.apple.com/album/617154241), [Spotify](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa)                  |
 | Ratatat mix                        | Ratatat                          | Playlist   | [Spotify](https://open.spotify.com/user/ciroivan227/playlist/1eLgUY4BFj7f96z10womVL)                                                      |
 | Solar Eclipses                     | Hollywood Principle, Dr. Awkward | Album      | [Apple Music](https://music.apple.com/album/1312553828), [Spotify](https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8)                 |
+| Swordfish (OST)                    | Paul Oakenfold                   | Soundtrack | [Apple Music](https://music.apple.com/album/1342724835), [Spotify](https://open.spotify.com/album/7ktbhq6Wogmcdwg5qO3HEY)                 |
 | Techno Bunker                      | Various                          | Playlist   | [Spotify](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6J5NfMJS675)                                                          |
 | The Aviating                       | Alec Troniq & Gabriel Vitel      | Album      | [Apple Music](https://music.apple.com/de/album/the-aviating/1051088498), [Spotify](https://open.spotify.com/album/4gSJzDHKILotDwmE1YSZA3) |
 | The Social Network                 | Trent Reznor, Atticus Ross       | Soundtrack | [Apple Music](https://music.apple.com/album/395740920), [Spotify](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa)                  |
 | TRON: Legacy                       | Daft Punk                        | Soundtrack | [Apple Music](https://music.apple.com/album/1440617583), [Spotify](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG)                 |
+| TRON: Legacy Reconfigured          | Daft Punk                        | Album      | [Apple Music](https://music.apple.com/album/1440617977), [Spotify](https://open.spotify.com/album/382ObEPsp2rxGrnsizN5TX)                 |
 | Wired In                           | Various                          | Playlist   | [Spotify](https://open.spotify.com/user/tomzorzhu/playlist/6FBP8geEcJX2lYnsVxfvYl)                                                        |
 | RetroWave / Outrun                 | Various                          | Playlist   | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM)                                                                       |
 
@@ -128,14 +131,18 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 ### Space/Ambient
 
-| Name                 | Artist          | Type       | Link                                                                                                                                        |
-| -------------------- | --------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Immunity             | Jon Hopkins     | Album      | [Apple Music](https://music.apple.com/album/766062577), [Spotify](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35)                    |
-| Light Years          | Stellardrone    | Album      | [Apple Music](https://music.apple.com/album/669237623), [Spotify](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk)                    |
-| Movements            | Solar Fields    | Album      | [Apple Music](https://music.apple.com/album/1572605925), [Spotify](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs)                   |
-| No Man's Sky OST     | 65daysofstatic  | Soundtrack | [Apple Music](https://music.apple.com/album/1469726921), [Spotify](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40)                   |
-| Spiral Revelation    | Steve Roach     | Album      | [Apple Music](https://music.apple.com/album/1184455247), [Spotify](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6)                   |
-| Synthwave from Space | Various         | Playlist   | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p)                                                              |
-| The Apollo Missions  | NASA            | Album      | [Spotify](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D)                                                                            |
-| Tycho Anthology      | Tycho           | Playlist   | [Apple Music](https://music.apple.com/de/playlist/pl.u-55D6XYqTYb1VZY), [Spotify](https://open.spotify.com/playlist/7m3EiJHdRAVPweCJLxDP3d) |
-| X3 OST               | Alexei Zakharov | Soundtrack | [Apple Music](https://music.apple.com/album/495207937), [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX)                   |
+| Name                 | Artist                      | Type       | Link                                                                                                                                        |
+| -------------------- | ---------------             | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ad Astra OST         | Max Richter, Lorne Balfe    | Soundtrack | [Apple Music](https://music.apple.com/album/1482828581), [Spotify](https://open.spotify.com/album/7A0KkKcwRKJYLrWQQsO3bH)                   |
+| Arrival OST          | Jóhann Jóhannsson           | Soundtrack | [Apple Music](https://music.apple.com/album/1440758063), [Spotify](https://open.spotify.com/album/3GDfBsNm22NeGSP2vQDWnO)                   |
+| Ex Machina OST       | Ben Salisbury, Geoff Barrow | Soundtrack | [Apple Music](https://music.apple.com/album/958817926), [Spotify](https://open.spotify.com/album/05qiaa6qhjXouu6M2sPYUn)                    |
+| Immunity             | Jon Hopkins                 | Album      | [Apple Music](https://music.apple.com/album/766062577), [Spotify](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35)                    |
+| Light Years          | Stellardrone                | Album      | [Apple Music](https://music.apple.com/album/669237623), [Spotify](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk)                    |
+| Movements            | Solar Fields                | Album      | [Apple Music](https://music.apple.com/album/1572605925), [Spotify](https://open.spotify.com/album/26sqA3KtarBkOXvR33FNQs)                   |
+| No Man's Sky OST     | 65daysofstatic              | Soundtrack | [Apple Music](https://music.apple.com/album/1469726921), [Spotify](https://open.spotify.com/album/0CkuFPWCLJjCAEKy0dce40)                   |
+| Race to Space        | Public Service Broadcasting | Album      | [Apple Music](https://music.apple.com/album/947928979), [Spotify](https://open.spotify.com/album/65KwtzkJXw7oT819NFWmEP)                    |
+| Spiral Revelation    | Steve Roach                 | Album      | [Apple Music](https://music.apple.com/album/1184455247), [Spotify](https://open.spotify.com/album/0t7qmuEWN8vtKOJEqzm5T6)                   |
+| Synthwave from Space | Various                     | Playlist   | [Spotify](https://open.spotify.com/user/aofd3/playlist/4sgUux9hmykyWYmVoe4W6p)                                                              |
+| The Apollo Missions  | NASA                        | Album      | [Spotify](https://open.spotify.com/album/3uC3GbmL0BaTIFnrpByd0D)                                                                            |
+| Tycho Anthology      | Tycho                       | Playlist   | [Apple Music](https://music.apple.com/de/playlist/pl.u-55D6XYqTYb1VZY), [Spotify](https://open.spotify.com/playlist/7m3EiJHdRAVPweCJLxDP3d) |
+| X3 OST               | Alexei Zakharov             | Soundtrack | [Apple Music](https://music.apple.com/album/495207937), [Spotify](https://open.spotify.com/artist/0V2HC7qeeg8gpoO8cs7ZZX)                   |
