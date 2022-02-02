@@ -36,6 +36,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 | Name                               | Artist                           | Type       | Link                                                                                                                                      |
 | ---------------------------------- | -------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| A State of Trance 500 (14 hours)   | Various                          | Album      | [Apple Music](https://music.apple.com/album/430574887), [Spotify](https://open.spotify.com/album/2WY8oI4yCDGWXg0WadOekj)                  |
 | Discovery                          | Daft Punk                        | Album      | [Apple Music](https://music.apple.com/album/697194953), [Spotify](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc)                  |
 | Emergence                          | Max Cooper                       | Album      | [Apple Music](https://music.apple.com/album/1149398778), [Spotify](https://open.spotify.com/album/26vmJ6CjPxYWYYa2B4d9my)                 |
 | Full Circle                        | HÆLOS                            | Album      | [Apple Music](https://music.apple.com/album/1589172754), [Spotify](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ)                 |
