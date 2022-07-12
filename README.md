@@ -77,10 +77,11 @@ A collective list of music to listen to while programming. [Please contribute!](
 
 ### Hip Hop
 
-| Name               | Artist  | Type     | Link                                                                                   |
-| ------------------ | ------- | -------- | -------------------------------------------------------------------------------------- |
-| Lofi Hip Hop Beats | Various | Playlist | [Spotify](https://open.spotify.com/user/chillhopmusic/playlist/74sUjcvpGfdOvCHvgzNEDO) |
-| Lush lofi          | Various | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH)                    |
+| Name               | Artist            | Type     | Link                                                                                   |
+| ------------------ | ----------------- | -------- | -------------------------------------------------------------------------------------- |
+| Good Morning       | Lofi Fruits Music | Album    | [Spotify](https://open.spotify.com/album/29y01S3IIqY7IPsbFzPXVh)                       |
+| Lofi Hip Hop Beats | Various           | Playlist | [Spotify](https://open.spotify.com/user/chillhopmusic/playlist/74sUjcvpGfdOvCHvgzNEDO) |
+| Lush lofi          | Various           | Playlist | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH)                    |
 
 ### House
 
