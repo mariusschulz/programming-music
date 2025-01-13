@@ -116,6 +116,7 @@ A collective list of music to listen to while programming. [Please contribute!](
 | Project Reality Original Soundtrack v0.9 | Scott Tobin    | Album    | [Apple Music](https://music.apple.com/album/367558171), [Spotify](https://open.spotify.com/album/2qW0y29VGdFOAfGff92gbh)  |
 | Project Reality Original Soundtrack v1.0 | Scott Tobin    | Album    | [Apple Music](https://music.apple.com/album/775826832), [Spotify](https://open.spotify.com/album/0Krzwyda9zwkfmdI8UcIx6)  |
 | Starborn                                 | Sorastro       | Album    | [Apple Music](https://music.apple.com/album/1294791957), [Spotify](https://open.spotify.com/album/6RgumQtb6jbqvDfd6XRtUC) |
+| Journey Soundtrack                       | Austin Wintory | Album    | [Spotify](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn), [YouTube](https://www.youtube.com/watch?v=qGcXI_BaR2Y)  |
 | Unearthed                                | E.S. Posthumus | Album    | [Apple Music](https://music.apple.com/album/39436966), [Spotify](https://open.spotify.com/album/5dO8FBozMXBNXRwuGbYt12)   |
 
 ### Post-Rock
